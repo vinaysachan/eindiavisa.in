@@ -1,0 +1,1 @@
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet" type="text/css" /><span class="cpt" style="font-family: 'Indie Flower', cursive"></span><style>.cpt:before {content: '<?= $captcha ?>';}</style>
