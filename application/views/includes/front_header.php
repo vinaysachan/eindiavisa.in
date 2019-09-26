@@ -16,8 +16,8 @@
             </div>
 
             <div class="collapse navbar-collapse text-right" id="navbarResponsive">
-                <div class="container">
-                    <ul class="navbar-nav ml-auto pull-right">
+                <div class="container mt10">
+                    <ul class="navbar-nav ml-auto pull-right" style="">
                         <li class="nav-item <?= ($class == 'main' && $method == 'index') ? 'active' : '' ?>">
                             <a class="nav-link js-scroll-trigger" title="<?= SITE_NAME ?>" href="<?= base_url() ?>">Home</a>
                         </li>
