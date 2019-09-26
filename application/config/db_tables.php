@@ -13,10 +13,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /* Project Database Tables Name */
 define('TBL_ADMIN_USER', 'eindiavisa_in_admin_users');
-define('TBL_APPLICATION_TYPE', 'eindiavisa_application_type');
-define('TBL_APPLICATIONS', 'eindiavisa_applicatrion_details');
-define('TBL_ARRIVAL_PORT', 'eindiavisa_arrival_port');
-define('TBL_BANNERS', 'eindiavisa_banners');
+define('TBL_APPLICATION_TYPE', 'eindiavisa_in_application_type');
+define('TBL_APPLICATIONS', 'eindiavisa_in_applicatrion_details');
+define('TBL_ARRIVAL_PORT', 'eindiavisa_in_arrival_port');
+define('TBL_BANNERS', 'eindiavisa_in_banners');
 define('TBL_COUNTRY', 'e_touristvisa_country');
 define('TBL_ENQUIRY', 'e_touristvisa_enquiry');
 define('TBL_ERROR', 'e_touristvisa_error');
