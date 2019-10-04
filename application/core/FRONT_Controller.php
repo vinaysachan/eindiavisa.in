@@ -20,7 +20,7 @@ class FRONT_Controller extends CORE_Controller {
                 'public/plugins/jquery_validation/jquery.validate.min.js',
 //                'public/plugins/jq-confirm/jquery-confirm.min.js',
                 'https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js',
-                'public/js/main.js',
+                'public/js/main.js?version='.VERSION,
                 'public/js/site.js?version='.VERSION
             ],
             'css' => [
@@ -29,7 +29,7 @@ class FRONT_Controller extends CORE_Controller {
                 'https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.css',
                 'public/plugins/bootstrap4/css/bootstrap.min.css',
                 'public/plugins/font-awesome/css/font-awesome.min.css',
-                'public/css/front.css'
+                'public/css/front.css?version='.VERSION
             ]
         ]);
  

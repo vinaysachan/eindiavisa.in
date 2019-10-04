@@ -19,6 +19,9 @@ body.form_page .form-group label {
     header {
         padding: 1px 0 20px;
     }
+    .navbar-light {
+        
+    }
     .nav-item {
         /*background-color: #ccc;*/
         margin-left: 0px;
@@ -82,7 +85,7 @@ body.form_page .banner_top {
 
 .info-box {
     background: #fff none repeat scroll 0 0;
-    border-radius: 0px;
+    border-radius: 41px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     display: block;
     margin-bottom: 15px;
