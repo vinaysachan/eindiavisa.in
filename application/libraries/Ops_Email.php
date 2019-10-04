@@ -25,8 +25,8 @@ class Ops_Email {
     protected $econfig;
     private $data               =   [];    
     private $host               =   'ssl://smtp.zoho.com';
-    private $username           =   'alerts@e-touristvisa.com';
-    private $password           =   'e-touristvisa.com';
+    private $username           =   'info@eindiavisa.in';
+    private $password           =   'Pass@INFO';
     private $port               =   '465';
 
     public function __construct() {

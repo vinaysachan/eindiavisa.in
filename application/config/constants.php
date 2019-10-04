@@ -130,8 +130,8 @@ define('PAY_PAL_ACCOUNT', 'mkarya59@gmail.com');
 define('ADMIN_EMAIL1', '');
 define('ADMIN_EMAIL2', '');
 
-define('CONTACT_EMAIL1', '');
-define('CONTACT_EMAIL2', '');
+define('CONTACT_EMAIL1', 'info@eindiavisa.in');
+define('CONTACT_EMAIL2', 'contact@eindiavisa.in');
 define('CONTACT_NO1', '+919015579421');
 define('CONTACT_NO_UK', '');
 define('VERSION', '2.0.1');
